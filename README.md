@@ -1,24 +1,7 @@
-# vue3-typescript-prj
+# vue3-typescript 
 
-## Project setup
-```
-npm install
-```
+## 목표
+vue3와 typescript를 함께 사용하는 법을 공부한다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 프로젝트
+간단한 웹 페이지 생성
